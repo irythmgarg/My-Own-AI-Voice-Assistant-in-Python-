@@ -1,0 +1,8 @@
+pyttsx3
+pywhatkit
+wikipedia
+psutil
+plyer
+speechrecognition
+pyaudio
+requests
